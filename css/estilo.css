@@ -1,0 +1,12 @@
+body{
+background-color: blanchedalmond;
+padding: 0px;
+margin: 0px;
+}
+
+.box{
+
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
